@@ -4,7 +4,7 @@ html, body { height: 100%; }
 img { max-width: 100%; }
 
 #cover {
-    background: #222 url('../img/cover-background.jpg') center bottom no-repeat;
+    background: #222 url('http://placehold.it/1900x1080&text=Cover Image') center bottom no-repeat;
     background-size: cover;
     color: white;
     height: 100%;
@@ -17,3 +17,5 @@ img { max-width: 100%; }
 #cover-caption {
     width: 100%; /* necessary to center element in flexbox */
 }
+
+#slider { height: 50%; }
