@@ -1,0 +1,19 @@
+/* Bootstrap Starter Template */
+
+html, body { height: 100%; }
+img { max-width: 100%; }
+
+#cover {
+    background: #222 url('../img/cover-background.jpg') center bottom no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    text-align: center;
+    /* flexbox */
+    display: flex;
+    align-items: center;
+}
+
+#cover-caption {
+    width: 100%; /* necessary to center element in flexbox */
+}
