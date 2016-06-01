@@ -6,11 +6,9 @@
 
 ### Some Boostrap Plugins
 
-> typeahead.js 
-[http://twitter.github.io/typeahead.js/](http://twitter.github.io/typeahead.js/)
+> [typeahead.js](http://twitter.github.io/typeahead.js/)
 
-> Notify.js 
-[http://notifyjs.com/](http://notifyjs.com/)
+> [Notify.js](http://notifyjs.com/)
 
 > jQuery File Upload 
 [http://blueimp.github.io/jQuery-File-Upload/](http://blueimp.github.io/jQuery-File-Upload/)
